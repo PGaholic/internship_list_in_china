@@ -17,3 +17,4 @@
 爱奇艺|[网站](http://zhaopin.iqiyi.com/job-school.html)|No|Yes|Yes
 携程|[网站](http://campus.ctrip.com/rec-faq05)|No|Yes|Yes
 即刻|[网站](https://okjike.com/careers)|Yes|Yes|Yes
+唯品会|[网站](http://campus.vip.com/)|Yes|Yes|Yes
